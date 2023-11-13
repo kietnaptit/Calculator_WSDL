@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:31:46 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 500 561
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:31:46 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:32:17 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 200 5256
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:40:04 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:40:06 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 200 5256
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:21:00 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96

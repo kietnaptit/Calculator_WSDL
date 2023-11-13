@@ -1,0 +1,84 @@
+13-Nov-2023 16:31:38.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.95
+13-Nov-2023 16:31:38.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 12 2023 00:55:53 UTC
+13-Nov-2023 16:31:38.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.95.0
+13-Nov-2023 16:31:38.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+13-Nov-2023 16:31:38.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+13-Nov-2023 16:31:38.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Nov-2023 16:31:38.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_05\jre
+13-Nov-2023 16:31:38.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_05-b13
+13-Nov-2023 16:31:38.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Nov-2023 16:31:38.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:31:38.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:31:38.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\503\Desktop\apache-tomcat-8.5.95\conf\logging.properties
+13-Nov-2023 16:31:38.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Nov-2023 16:31:38.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Nov-2023 16:31:38.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Nov-2023 16:31:38.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Nov-2023 16:31:38.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:31:38.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:31:38.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\503\Desktop\apache-tomcat-8.5.95\temp
+13-Nov-2023 16:31:38.974 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_05\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Users\503\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\503\AppData\Local\Programs\Python\Python38-32\;C:\Users\503\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Users\503\AppData\Local\Programs\Microsoft VS Code\bin;.]
+13-Nov-2023 16:31:39.098 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 16:31:39.118 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 455 ms
+13-Nov-2023 16:31:39.147 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Nov-2023 16:31:39.147 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.95]
+13-Nov-2023 16:31:39.157 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\axis]
+13-Nov-2023 16:31:39.555 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Nov-2023 16:31:39.816 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [178] milliseconds.
+13-Nov-2023 16:31:39.979 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\axis] has finished in [822] ms
+13-Nov-2023 16:31:39.979 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\docs]
+13-Nov-2023 16:31:39.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\docs] has finished in [15] ms
+13-Nov-2023 16:31:39.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\examples]
+13-Nov-2023 16:31:40.150 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\examples] has finished in [156] ms
+13-Nov-2023 16:31:40.151 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\host-manager]
+13-Nov-2023 16:31:40.169 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\host-manager] has finished in [18] ms
+13-Nov-2023 16:31:40.169 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\manager]
+13-Nov-2023 16:31:40.186 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\manager] has finished in [16] ms
+13-Nov-2023 16:31:40.186 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\ROOT]
+13-Nov-2023 16:31:40.198 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\ROOT] has finished in [12] ms
+13-Nov-2023 16:31:40.201 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 16:31:40.216 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1097 ms
+13-Nov-2023 16:32:14.543 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.95
+13-Nov-2023 16:32:14.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 12 2023 00:55:53 UTC
+13-Nov-2023 16:32:14.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.95.0
+13-Nov-2023 16:32:14.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+13-Nov-2023 16:32:14.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+13-Nov-2023 16:32:14.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Nov-2023 16:32:14.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_05\jre
+13-Nov-2023 16:32:14.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_05-b13
+13-Nov-2023 16:32:14.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Nov-2023 16:32:14.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:32:14.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:32:14.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\503\Desktop\apache-tomcat-8.5.95\conf\logging.properties
+13-Nov-2023 16:32:14.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Nov-2023 16:32:14.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Nov-2023 16:32:14.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Nov-2023 16:32:14.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Nov-2023 16:32:14.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:32:14.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\503\Desktop\apache-tomcat-8.5.95
+13-Nov-2023 16:32:14.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\503\Desktop\apache-tomcat-8.5.95\temp
+13-Nov-2023 16:32:14.549 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_05\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Users\503\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\503\AppData\Local\Programs\Python\Python38-32\;C:\Users\503\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Users\503\AppData\Local\Programs\Microsoft VS Code\bin;.]
+13-Nov-2023 16:32:14.625 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 16:32:14.639 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 328 ms
+13-Nov-2023 16:32:14.655 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Nov-2023 16:32:14.655 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.95]
+13-Nov-2023 16:32:14.662 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\axis]
+13-Nov-2023 16:32:15.017 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Nov-2023 16:32:15.209 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [122] milliseconds.
+13-Nov-2023 16:32:15.362 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\axis] has finished in [700] ms
+13-Nov-2023 16:32:15.362 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\docs]
+13-Nov-2023 16:32:15.378 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\docs] has finished in [16] ms
+13-Nov-2023 16:32:15.378 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\examples]
+13-Nov-2023 16:32:15.521 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\examples] has finished in [143] ms
+13-Nov-2023 16:32:15.521 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\host-manager]
+13-Nov-2023 16:32:15.543 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\host-manager] has finished in [22] ms
+13-Nov-2023 16:32:15.543 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\manager]
+13-Nov-2023 16:32:15.559 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\manager] has finished in [16] ms
+13-Nov-2023 16:32:15.559 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\ROOT]
+13-Nov-2023 16:32:15.577 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\503\Desktop\apache-tomcat-8.5.95\webapps\ROOT] has finished in [18] ms
+13-Nov-2023 16:32:15.579 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 16:32:15.591 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 952 ms
+13-Nov-2023 17:21:54.050 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 17:21:54.161 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Nov-2023 17:21:54.177 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Nov-2023 17:21:54.184 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
