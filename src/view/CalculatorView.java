@@ -41,7 +41,10 @@ public class CalculatorView extends JFrame implements ActionListener{
         content.add(btnSub);
         content.add(btnMul);
         content.add(btnDiv);
-        
+        btnAdd.addActionListener(this);
+        btnSub.addActionListener(this);
+        btnMul.addActionListener(this);
+        btnDiv.addActionListener(this);
         this.setContentPane(content);
         this.pack();
         this.addWindowListener(new WindowAdapter() {

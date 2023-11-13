@@ -4,3 +4,14 @@
 0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:40:04 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96
 0:0:0:0:0:0:0:1 - - [13/Nov/2023:16:40:06 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 200 5256
 0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:21:00 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:27:53 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:27:56 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 200 5256
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:35:42 +0700] "GET /axis/Calculators.jws HTTP/1.1" 200 96
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:35:43 +0700] "GET /axis/Calculators.jws?wsdl HTTP/1.1" 200 5256
+127.0.0.1 - - [13/Nov/2023:17:44:34 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 402
+127.0.0.1 - - [13/Nov/2023:17:46:44 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 402
+127.0.0.1 - - [13/Nov/2023:17:46:51 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 403
+127.0.0.1 - - [13/Nov/2023:17:48:04 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 402
+127.0.0.1 - - [13/Nov/2023:17:48:09 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 402
+127.0.0.1 - - [13/Nov/2023:17:48:13 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 403
+127.0.0.1 - - [13/Nov/2023:17:48:17 +0700] "POST /axis/Calculators.jws HTTP/1.0" 200 416

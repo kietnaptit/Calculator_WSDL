@@ -9,7 +9,6 @@
 * Run TomCat (\Calculators\tomcat\bin\startup.bat)
 * Make sure webserivce is run at http://localhost:8080/axis/Calculators.jws?wsdl
 * Open Project by a Java IDE (Like Apache Netbeans). Then run file Calculators.java
+* Add all JAR in \Calculators\lib Folder into Path
 
-# Bug
-* Tried to implemented Java Swing GUI (CalculatorView.java) but It doesn't work
 
